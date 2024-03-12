@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile App projects.**
 
-- 👨‍💻 All of my projects are available at [https://except-devs.verce.app](https://except-devs.verce.app)
+- 👨‍💻 All of my projects are available at [https://except-devs.vercel.app](https://except-devs.vercel.app)
 
 - 💬 Ask me about **react, cyber attacks, malwares, GDPR, typescript, javascript**
 

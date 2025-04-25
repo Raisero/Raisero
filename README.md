@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **react, cyber attacks, malwares, GDPR, typescript, javascript**
 
-- 📫 How to reach me **achraf.eddari@gmail.com**
-
 - ⚡ Fun fact **I love dogs.**
 
 <h3 align="left">Connect with me:</h3>

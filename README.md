@@ -1,7 +1,7 @@
 <h1 align="center">Raisero - FullStack Developer</h1>
 <h3 align="center">Hey there, i'm a CyberSecurity Expert and a FullStack Developer.</h3>
 
-- 🔭 I’m currently working on **SunFire Casino | Mystic Men | SOLFy | Bansky**
+- 🔭 I’m currently working on **Mystic Men | SOLFy | Bansky**
 
 - 🌱 I’m currently persuing **MSc Cyber Security degree.**
 
